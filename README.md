@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/116133421?s=400&u=3fdea3cd4b53d1683fbf673f0af9e3a0068f7f73&v=4"  />
+  <img height="150" src="https://i.imgur.com/NmDzHSS.jpeg"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -29,29 +29,36 @@
 
 ###
 
-<p align="left">I'm Joan Santos from Dominican Republic 🇩🇴<br><br>- 🔭 I’m working as Software Development.<br>- 📚 I'm currently learning C# MVC, JS, Firebase.<br>- ⚡ In my free time I do code.</p>
+<p align="left">My name is Joan Santos, i'm Dominican. <br> I'm currently studing software development. I love doing websites and apply all my knwolage on my projects. <br> 
+I'm learning new lenguages like Node.js, Express.js and firebase as tool pakage to apply database. <br> I love all kinds of movies, but i specially love horror movies. I'm also a pop lover so my favorite artist is Ariana Grande.</p>
+
+- 😄 Pronouns: He/Him
+- 🔭 I’m working as Software Development.
+- 📲 Web developer.
+- 📚 I'm currently learning C# MVC, Node.js, Express.js, Firebase.
+- ⚡ In my free time I do code.
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Teach Stack</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-</div>
+- :space_invader:
+  [![My Skills](https://skillicons.dev/icons?i=mysql,py,firebase)](https://skillicons.dev) 
+- 🌐 &nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs)](https://skillicons.dev) 
+- ⚙️ &nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) 
+- 💻 &nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=windows,figma)](https://skillicons.dev) 
+
+###
+
+## 📝 Recent Projects
+### [ E-Commerce website: ](http://nextronrd.netlify.app)<br>
+An static e-commerce page made for a dominican company.<br>
+Languages Utilized: HTML, CSS and JS.
 
 ###
 
@@ -61,14 +68,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jsantosluna7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ 31canbgqu2g2j2lzq7pnuphzoyuy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031canbgqu2g2j2lzq7pnuphzoyuy&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
